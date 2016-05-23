@@ -1,4 +1,4 @@
 Hello This is a text file for github. 
 Now editing this new file 
 Adding few more lines
-New line
+New line ...
